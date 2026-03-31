@@ -13,4 +13,6 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+find /workspaces/lezione-bash-04-mongelli_v/ambiente/immagini/vacanze -name "*.jpg"
+tail /workspaces/lezione-bash-04-mongelli_v/ambiente/documenti/\.txt$ /workspaces/lezione-bash-04-mongelli_v/ambiente/sandbox/elenco_txt.txt
+tail /workspaces/lezione-bash-04-mongelli_v/ambiente/documenti/\[.] /workspaces/lezione-bash-04-mongelli_v/ambiente/sandbox/elenco_txt.txt
