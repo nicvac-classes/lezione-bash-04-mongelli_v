@@ -13,5 +13,7 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+cp note.txt /workspaces/lezione-bash-04-mongelli_v/ambiente/archivio
+mv note.txt note_archivio.txt
+mv /workspaces/lezione-bash-04-mongelli_v/ambiente/documenti/lettere/\.txt$ /workspaces/lezione-bash-04-mongelli_v/ambiente/sandbox 
 
