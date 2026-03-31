@@ -12,6 +12,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
+find /workspaces/lezione-bash-04-mongelli_v/ambiente -name "*.txt
+grep "database" /workspaces/lezione-bash-04-mongelli_v/ambiente/log/\.txt
 
 
 

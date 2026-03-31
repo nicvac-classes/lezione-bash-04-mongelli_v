@@ -13,6 +13,6 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+ grep "ERROR" server.log
+ wc -l "ERROR" server.log
 

@@ -13,6 +13,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
+awk '9 > 1 && $5 >=8?
+awk -F',' '{cognome,nome $1}' studenti.csv
 
 
 

@@ -17,6 +17,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-grep -E "[0-9].[]
+grep -E "[0-9].[0-9].[0-9].[0-9] server.log
+grep -E "ERROR | WARNING" server.log
+grep -E -c ..:..:.. server.log
 
 
