@@ -12,6 +12,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
-
+cd sandbox
+chmod u+x script_test.sh
+./script_test.sh
 
